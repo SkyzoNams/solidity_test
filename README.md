@@ -14,4 +14,3 @@ Within the smart contract, there is a  variable named “consecutiveWins” and 
 If the applicant has any questions regarding this test or needs any more information, they should reach out to the document sender.
 
 This test should be completed over 5 working days at the applicant's leisure.
-![image](https://user-images.githubusercontent.com/82846542/171049617-4cd7abd3-040a-49ff-bb87-382366526fc3.png)
